@@ -1,6 +1,7 @@
 # freeChatGptPath<br />
 收集整理一些免费的chatGpt <br />
 ####2023 年 4 月 14 更新<br />
+https://bettergpt.chat/  (转到 API 设置并选择“使用自定义 API 端点”。然后，输入 https://free.churchless.tech/v1/chat/completions 作为端点，并将 API 密钥字段留空。完成后，您可以免费无限制地使用 ChatGPT！)<br />
 [https://chat.theb.ai](https://chat.theb.ai)<br />
 https://www.aitoolgpt.com<br />
 https://chatforai.com<br />
