@@ -1,8 +1,7 @@
-# freeAiPath
-收集整理一些免费的chatGpt 
-####2023 年 4 月 14 更新
-[https://chat.theb.ai](https://chat.theb.ai)
-
+# freeAiPath<br />
+收集整理一些免费的chatGpt <br />
+####2023 年 4 月 14 更新<br />
+[https://chat.theb.ai](https://chat.theb.ai)<br />
 https://www.aitoolgpt.com<br />
 https://chatforai.com<br />
 https://freechatgpt.chat<br />
