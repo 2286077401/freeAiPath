@@ -3,47 +3,47 @@
 ####2023 年 4 月 14 更新
 [https://chat.theb.ai](https://chat.theb.ai)
 
-https://www.aitoolgpt.com
-https://chatforai.com
-https://freechatgpt.chat
-https://fastgpt.app
-https://ai.ls
-https://chatgpt.ddiu.me
-https://freegpt.one
-https://freegpt.cc
-https://www.mulaen.com
-https://chat.tgbot.co/chat
-https://fastgpt.app
-https://chat.yqcloud.top
-https://ai117.com/
-https://zhoubaotong.com/zh
-https://gpt.sheepig.top/chat
-https://chat.forchange.cn
-https://gpt.tool00.com
-https://openaizh.com/chatgpt.html
-https://chat.gptocean.com
-https://hi.icu
-https://aicodehelper.com
-https://ai.zecoba.cn
-https://ai-toolbox.codefuture.top
-https://gptzero.me
-https://chat35.com/chat
-https://94gpt.com
-https://chat.forchange.cn
-https://aigcfun.com
-https://askai.ws
-https://chat.moyunav.com
-https://chatforai.com
-https://gpt.tool00.com
-https://fastgpt.app
-https://chater.lanyun1103.top
-https://chat.javaex.cn
+https://www.aitoolgpt.com<br />
+https://chatforai.com<br />
+https://freechatgpt.chat<br />
+https://fastgpt.app<br />
+https://ai.ls<br />
+https://chatgpt.ddiu.me<br />
+https://freegpt.one<br />
+https://freegpt.cc<br />
+https://www.mulaen.com<br />
+https://chat.tgbot.co/chat<br />
+https://fastgpt.app<br />
+https://chat.yqcloud.top<br />
+https://ai117.com/<br />
+https://zhoubaotong.com/zh<br />
+https://gpt.sheepig.top/chat<br />
+https://chat.forchange.cn<br />
+https://gpt.tool00.com<br />
+https://openaizh.com/chatgpt.html<br />
+https://chat.gptocean.com<br />
+https://hi.icu<br />
+https://aicodehelper.com<br />
+https://ai.zecoba.cn<br />
+https://ai-toolbox.codefuture.top<br />
+https://gptzero.me<br />
+https://chat35.com/chat<br />
+https://94gpt.com<br />
+https://chat.forchange.cn<br />
+https://aigcfun.com<br />
+https://askai.ws<br />
+https://chat.moyunav.com<br />
+https://chatforai.com<br />
+https://gpt.tool00.com<br />
+https://fastgpt.app<br />
+https://chater.lanyun1103.top<br />
+https://chat.javaex.cn<br />
 *****
-https://fastgpt.app/
-https://chat.binjie.site:7777/#/chat
-https://ai.ls/
-https://aitools.run/ （AI帮个忙，多功能 AI 小助手）
-https://future.attejuvonen.fi/
-https://freechatgpt.chat/
-https://94gpt.com/
-https://chat.tgbot.co/
+https://fastgpt.app/<br />
+https://chat.binjie.site:7777/#/chat<br />
+https://ai.ls/<br />
+https://aitools.run/ （AI帮个忙，多功能 AI 小助手）<br />
+https://future.attejuvonen.fi/<br />
+https://freechatgpt.chat/<br />
+https://94gpt.com/<br />
+https://chat.tgbot.co/<br />
