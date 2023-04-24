@@ -1,7 +1,8 @@
 # freeChatGptPath<br />
 #### 使用注意挂上梯子
 收集整理一些免费的chatGpt <br />
-#### 2023 年 4 月 18 更新<br />
+#### 2023 年 4 月 23 更新<br />
+https://alpha.bito.co/auth/login //需要邮箱注册
 https://a.a0.chat/#/home/chat ## chatGPT4.0 #### AI百晓生<br />
 
 >失效 https://chat1.aifks001.online/ <br />
