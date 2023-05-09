@@ -1,7 +1,20 @@
 # freeChatGptPath<br />
 #### 使用注意挂上梯子
 收集整理一些免费的chatGpt <br />
-#### 2023 年 4 月 23 更新<br />
+#### 2023 年 5 月 9 更新<br />
+## Current Sites <a name="current-sites"></a>
+
+| Website s                                        | Model(s)                         |
+| ------------------------------------------------ | -------------------------------- |
+| [forefront.ai](https://chat.forefront.ai)        | GPT-4/3.5                        |
+| [poe.com](https://poe.com)                       | GPT-4/3.5                        |
+| [writesonic.com](https://writesonic.com)         | GPT-3.5 / Internet               |
+| [t3nsor.com](https://t3nsor.com)                 | GPT-3.5                          |
+| [you.com](https://you.com)                       | GPT-3.5 / Internet / good search |
+| [sqlchat.ai](https://sqlchat.ai)                 | GPT-3.5                          |
+| [bard.google.com](https://bard.google.com)       | custom / search                  |
+| [bing.com/chat](https://bing.com/chat)           | GPT-4/3.5                        |
+| [italygpt.it](https://italygpt.it)               | GPT-3.5                          |
 https://alpha.bito.co/auth/login //需要邮箱注册
 https://a.a0.chat/#/home/chat ## chatGPT4.0 #### AI百晓生<br />
 
