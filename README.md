@@ -1,7 +1,9 @@
 # freeChatGptPath<br />
 #### 使用注意挂上梯子
 收集整理一些免费的chatGpt <br />
-#### 2023 年 5 月 9 更新<br />
+#### 2023 年 6 月 6 更新<br />
+
+[https://c.aichat.la/#/friend](https://c.aichat.la/#/friend)<br />
 ## Current Sites <a name="current-sites"></a>
 
 | Website s                                        | Model(s)                         |
