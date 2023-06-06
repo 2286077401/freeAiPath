@@ -3,7 +3,12 @@
 收集整理一些免费的chatGpt <br />
 #### 2023 年 6 月 6 更新<br />
 
-[https://c.aichat.la/#/friend](https://c.aichat.la/#/friend)<br />
+[https://c.aichat.la/#/friend](https://c.aichat.la/#/friend) （功能非常多模块划分很清晰）<br />
+https://webgpt.yudlk.com/home （功能非常多模块划分很清晰）<br />
+https://soft.360qnw.com/chatai/index08.html <br />
+https://chat.smcode.com.cn/index.html#/ （手机端，每日可签到，日常的提问次数基本满足）<br />
+https://gpt-easy.com/#/chat/ <br />
+https://chat.wuguokai.cn/#/chat<br />
 ## Current Sites <a name="current-sites"></a>
 
 | Website s                                        | Model(s)                         |
